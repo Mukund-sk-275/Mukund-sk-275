@@ -1,16 +1,24 @@
-## Hi there 👋
+<img src="https://visitcount.itsvg.in/api?id=Mukund-sk-275&label=Profile%20visits&color=0&icon=5&pretty=true" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mukundan+Srinivasan!;" />
+</h1>
 
-<!--
-**Mukund-sk-275/Mukund-sk-275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👀 I’m interested in anything related to technology
+- 🌱 I’m currently learning **data structures** and **swift**
+- 💞️ I’m looking to collaborate on projects related to **data science** or **software development**
+- 😄 Pronouns: he/him
+- 📫 How to reach me :
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mukundan-srinivasank/)
+- ⚡ Fun fact: I can write poems in Tamil🎭
+---
+### I code in <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b2/512.gif" alt="🎲" width="20" height="20"> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=24464&format=png&color=FD7E14"/>
+---
+### IDE and Tools I Use <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="20" height="20">
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=g7UKWvv49CoI&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=110560&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=82702&format=png&color=22C3E6"/>
+---
+![GitHub stats:](https://github-readme-stats.vercel.app/api?username=Mukund-sk-275&theme=radical&show_icons=true&&hide=issues,contribs)
+![Top Languages used:](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukund-sk-275&layout=compact) <br/>
+---
+## Github Contribution <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="20" height="20">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
